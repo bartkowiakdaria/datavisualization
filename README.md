@@ -14,9 +14,9 @@ Users can interactively filter data and explore relationships using dynamic plot
 
 ---
 
-## Project 2: The Impact of Remote Work on Mental Health
+## Project 2: The Impact of Type of Work on Mental Health
 
-A data visualization project exploring how **remote work affects mental well-being**.  
-The analysis uses **ggplot2** to present correlations between remote work and stress levels.  
+A data visualization project exploring how **remote work affects mental well-being**, is it better for mental health than on-site work?  
+The analysis uses **ggplot2** to present correlations between type of work and stress levels and many more.  
 
 

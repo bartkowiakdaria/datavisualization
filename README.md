@@ -19,11 +19,4 @@ Users can interactively filter data and explore relationships using dynamic plot
 A data visualization project exploring how **remote work affects mental well-being**.  
 The analysis uses **ggplot2** to present correlations between remote work and stress levels.  
 
----
-
-## 🛠️ Tools and Technologies
-
-`R` • `ggplot2` • `plotly` • `shiny` • `tidyverse`
-
----
 
